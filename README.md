@@ -1,4 +1,37 @@
-## Hi there 👋
+# 🎓 SVern21
+
+## Hi there 👋 Welcome to my GitHub profile!  
+I'm currently pursuing **Information Systems Engineering** at **KU Leuven**, with a passion for product engineering and innovative technology solutions.
+
+---
+
+## 👋 About Me
+
+- 📚 **Education:** Information Systems Engineering @ KU Leuven
+- 🛠️ **Interests:** Product Engineering, Software Development, Systems Design
+- 🌱 I’m currently learning to vibe-code some basic apps, with a 0-1 mentality
+- 🤔 **Mindset:** Always open to new experiences and learning opportunities
+
+---
+
+## 🗂️ Projects
+
+Here you'll find a range of coursework, personal projects, and explorations in software and systems engineering.  
+Feel free to browse, contribute, or connect!
+
+---
+
+## 📫 Connect
+
+- 💼 [LinkedIn](#) <!-- Replace with your LinkedIn URL -->
+- 🐙 [GitHub](https://github.com/SVern21)
+
+---
+
+> *“Always learning, always building.”*
+
+
+
 
 <!--
 **SVern21/Svern21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
