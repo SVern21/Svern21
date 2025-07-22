@@ -1,13 +1,13 @@
 # 🎓 SVern21
 
 ## Hi there 👋 Welcome to my GitHub profile!  
-I'm currently pursuing **Information Systems Engineering** at **KU Leuven**, with a passion for product engineering and innovative technology solutions.
+I'm currently pursuing a MSc in **Information Systems Engineering** at **KU Leuven**, with a passion for product engineering and innovative technology solutions.
 
 ---
 
 ## 👋 About Me
 
-- 📚 **Education:** Information Systems Engineering @ KU Leuven
+- 📚 **Education:** MSc Information Systems Engineering @ KU Leuven
 - 🛠️ **Interests:** Product Engineering, Software Development, Systems Design
 - 🌱 I’m currently learning to vibe-code some basic apps, with a 0-1 mentality
 - 🤔 **Mindset:** Always open to new experiences and learning opportunities
