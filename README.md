@@ -23,7 +23,7 @@ Feel free to browse, contribute, or connect!
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](#) <!-- Replace with your LinkedIn URL -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/stef-vernelen/) <!-- Replace with your LinkedIn URL -->
 - 🐙 [GitHub](https://github.com/SVern21)
 
 ---
