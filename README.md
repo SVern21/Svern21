@@ -1,6 +1,5 @@
 # 🎓 SVern21
 
-## Hi there 👋 Welcome to my GitHub profile!  
 I'm currently pursuing a MSc in **Information Systems Engineering** at **KU Leuven**, with a passion for product engineering and innovative technology solutions.
 
 ---
